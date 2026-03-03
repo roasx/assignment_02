@@ -15,3 +15,11 @@ body {
 	font-size: 18vw;
 	letter-spacing: -20px;
 }
+
+.story {
+	font-size: 6vw;
+}
+
+.offset-text {
+	margin-left: 200px;
+}
