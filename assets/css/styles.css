@@ -24,3 +24,7 @@ body {
 .offset-text {
 	margin-left: 200px;
 }
+
+p {
+	position: relative;
+}
