@@ -1,7 +1,14 @@
 /* styles.css */
 
 * {
-	font-family: Arial;
+	font-family: "Geom";
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
 }
 
 .big-text {
